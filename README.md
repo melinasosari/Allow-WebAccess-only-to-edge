@@ -1,0 +1,1 @@
+# Allow-WebAccess-only-to-edge
