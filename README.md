@@ -15,11 +15,18 @@ Steps To Create This Rule:
 
 2.Create a new Outbound Rule:
         i.Select *Outbound Rule* then click *New Rule*
+        
         ii.Choose *Custom* then click next
+        
         iii.Choose *This Program Path* then type the *Path of your allowed Browser*
+        
         iv.for *Protocol Type* choose *TCP* and for *Remote Port* select *Specific Ports* then type *8, 443*
+        
         v.for *local ip address* and *Remote ip adress* Choose *any ip address*
+        
         vi.Choose the firewall profiles(public or private or domain) depending on your network
+        
         vii.Choose *Allow the Connections*
+        
         viii.type a name for example *Allow Web Access to MS Edge*
         
