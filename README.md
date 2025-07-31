@@ -14,6 +14,7 @@ Steps To Create This Rule:
 1.Open Windows Firewall: in run menu type *wf.msc*
 
 2.Create a new Outbound Rule:
+
         i.Select *Outbound Rule* then click *New Rule*
         
         ii.Choose *Custom* then click next
