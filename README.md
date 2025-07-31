@@ -19,7 +19,7 @@ Steps To Create This Rule:
         
         ii.Choose *Custom* then click next
         
-        iii.Choose *This Program Path* then type the *Path of your allowed Browser*
+        iii.Choose *This Program Path* then type the *Path of your allowed Browser(e.g. edge)*
         
         iv.for *Protocol Type* choose *TCP* and for *Remote Port* select *Specific Ports* then type *8, 443*
         
@@ -30,4 +30,8 @@ Steps To Create This Rule:
         vii.Choose *Allow the Connections*
         
         viii.type a name for example *Allow Web Access to MS Edge*
+
+        ix.Finish the Rule
+
+Result:Only Microsoft Edge Will be allowed to Access the internet. All other web browsers will be blocked unless explicity allowed by another rule
         
